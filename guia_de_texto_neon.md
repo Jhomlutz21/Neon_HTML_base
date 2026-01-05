@@ -1,7 +1,7 @@
-# Mapa de reemplazo de textos — Nexu Trading (Portafolio) | Sniper Landing [v2]
+# Mapa de reemplazo de textos — Neon (Portafolio) | Sniper Landing [v2]
 
 ## Nota para la IA que hará los reemplazos
-Este archivo **es una guía de sustitución de textos** basada en el **HTML original del template "Neon" de Cruip**.
+Este archivo **es una guía de sustitución de textos** basada en el **HTML original (`index.html`) del template "Neon" de Cruip**.
 
 Reglas obligatorias:
 - **NO cambiar el formato del HTML**: no modifiques estructura, clases, componentes, enlaces, IDs ni orden de secciones.
@@ -10,14 +10,14 @@ Reglas obligatorias:
 - Mantén el tipo de longitud indicado (Corto/Medio/Largo) para no romper el layout.
 
 
-## Mapa de reemplazo de textos — Nexu Trading (Portafolio) | Sniper Landing [v2]
+## Mapa de reemplazo de textos — Neon (Portafolio) | Sniper Landing [v2]
 
 ## Chequeo y ajustes (v2)
 • Ajusté los textos más largos (Hero, Ecosistema, Features, bullets y CTA) para que respeten mejor la longitud del template y no rompan el layout.
 • Pricing/Planes se mantiene igual que lo acordado (sin cambios).
 
 ## Prompt listo para otra IA (copiar y pegar)
-Objetivo: Reemplazar textos del HTML original por el nuevo copy de Nexu Trading.
+Objetivo: Reemplazar textos del HTML original por el nuevo copy de Neon.
 Regla: Mantén el tipo de longitud del texto original (Corto/Medio/Largo) para no romper el layout.
 Usa la tabla 'Tabla maestra de sustitución'. Para cada fila:
 1) Encuentra el 'Texto actual (exacto)' en el HTML.
@@ -33,7 +33,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 
 | ID | Sección | Elemento | Localizador | Tipo | Texto actual (exacto) | Texto nuevo (final) |
 | --- | --- | --- | --- | --- | --- | --- |
-| S001 | HEAD | Document Title | <title> | Medio | Neon HTML Demo - Home | Nexu Trading — Sniper Advanced Panel (MT5) |
+| S001 | HEAD | Document Title | <title> | Medio | Neon HTML Demo - Home | Neon — Sniper Advanced Panel (MT5) |
 
 
 ## — HEADER
@@ -51,7 +51,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 | S004 | HERO | Badge text | HERO \| <div.text-gray-400> \| Badge | Medio | Launching Infinite Workspaces. | Suite para traders en MT5. |
 | S005 | HERO | Badge link text | HERO \| <a.font-medium.text-blue-500> \| Badge link | Corto | Learn More | Ver portafolio |
 | S006 | HERO | Headline (H1) | HERO \| <h1.h1.font-uncut-sans> \| H1 | Medio | Where the world builds software | Sniper Advanced Panel |
-| S007 | HERO | Hero paragraph | HERO \| <p.text-xl.text-gray-400> \| Lead paragraph | Largo | Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever. | Panel para MetaTrader 5 que acelera tu ejecución y calcula el riesgo con precisión. Parte del ecosistema de Nexu Trading. |
+| S007 | HERO | Hero paragraph | HERO \| <p.text-xl.text-gray-400> \| Lead paragraph | Largo | Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever. | Panel para MetaTrader 5 que acelera tu ejecución y calcula el riesgo con precisión. Parte del ecosistema de Neon. |
 | S008 | HERO | Primary CTA text | HERO \| <a.btn.text-white> \| Primary button | Medio | Get Started For Free | Solicitar acceso |
 | S009 | HERO | Secondary CTA text | HERO \| <a.btn.text-gray-300> \| Secondary button | Corto | Explore Docs | Ver portafolio |
 
@@ -74,7 +74,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 | ID | Sección | Elemento | Localizador | Tipo | Texto actual (exacto) | Texto nuevo (final) |
 | --- | --- | --- | --- | --- | --- | --- |
 | S017 | ECOSISTEMA | Section title (H2) | ECOSISTEMA + PANDORA (ZIGZAG) \| <h2.h2.font-uncut-sans> \| H2 | Medio | Use sensitive data without sacrificing privacy | Un ecosistema para traders serios |
-| S018 | ECOSISTEMA | Section intro (P) | ECOSISTEMA + PANDORA (ZIGZAG) \| <p.text-xl.text-gray-400> \| Intro paragraph | Largo | Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est. | Nexu Trading integra ejecución, riesgo y automatización en un solo portafolio. Empieza con una herramienta y escala. |
+| S018 | ECOSISTEMA | Section intro (P) | ECOSISTEMA + PANDORA (ZIGZAG) \| <p.text-xl.text-gray-400> \| Intro paragraph | Largo | Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est. | Neon integra ejecución, riesgo y automatización en un solo portafolio. Empieza con una herramienta y escala. |
 
 
 ## — PANDORA (ZIGZAG)
@@ -134,7 +134,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 | ID | Sección | Elemento | Localizador | Tipo | Texto actual (exacto) | Texto nuevo (final) |
 | --- | --- | --- | --- | --- | --- | --- |
 | S059 | TESTIMONIALS | Section title (H2) | TESTIMONIALS \| <h2.h2.font-uncut-sans> \| H2 | Medio | Sound too good? Hear what our customers have to say | Traders reales. Suite real. |
-| S060 | TESTIMONIALS | Card 1 quote | TESTIMONIALS \| <p.text-gray-400> \| Card 1/9 quote | Largo | Compared to other offerings, Neon always has a head start and introduces bleeding edge features first. | “Pasé de improvisar a un flujo completo. Nexu Trading lo ordena todo.” |
+| S060 | TESTIMONIALS | Card 1 quote | TESTIMONIALS \| <p.text-gray-400> \| Card 1/9 quote | Largo | Compared to other offerings, Neon always has a head start and introduces bleeding edge features first. | “Pasé de improvisar a un flujo completo. Neon lo ordena todo.” |
 | S061 | TESTIMONIALS | Card 1 name | TESTIMONIALS \| <span.text-gray-300> \| Card 1/9 name | Corto | Mark Luiss | Santiago R. |
 | S062 | TESTIMONIALS | Card 1 role/company | TESTIMONIALS \| <a.font-medium.text-blue-500> \| Card 1/9 role | Corto | Apprenda | Day Trader |
 | S063 | TESTIMONIALS | Card 2 quote | TESTIMONIALS \| <p.text-gray-400> \| Card 2/9 quote | Medio | Neon has made a huge impact on compliance, while helping us become more transparent. | “La suite me da herramientas por etapa: análisis, ejecución y control.” |
@@ -167,7 +167,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 
 | ID | Sección | Elemento | Localizador | Tipo | Texto actual (exacto) | Texto nuevo (final) |
 | --- | --- | --- | --- | --- | --- | --- |
-| S087 | RESOURCES | Section title (H2) | RESOURCES \| <h2.h2.font-uncut-sans> \| H2 | Medio | Resources to help you get the most out of Neon | Recursos del ecosistema Nexu Trading |
+| S087 | RESOURCES | Section title (H2) | RESOURCES \| <h2.h2.font-uncut-sans> \| H2 | Medio | Resources to help you get the most out of Neon | Recursos del ecosistema Neon |
 | S088 | RESOURCES | Filter 1 | RESOURCES \| <button.relative.font-medium> \| Filter 1/4 | Corto | For Developers | Manual |
 | S089 | RESOURCES | Filter 2 | RESOURCES \| <button.relative.font-medium> \| Filter 2/4 | Corto | For Designers | Indicadores |
 | S090 | RESOURCES | Filter 3 | RESOURCES \| <button.relative.font-medium> \| Filter 3/4 | Corto | For Founders | Plantillas |
@@ -184,7 +184,7 @@ Columnas: ID | Sección | Elemento | Localizador | Tipo | Texto actual | Texto n
 
 | ID | Sección | Elemento | Localizador | Tipo | Texto actual (exacto) | Texto nuevo (final) |
 | --- | --- | --- | --- | --- | --- | --- |
-| S098 | FINAL CTA | Section title (H3) | FINAL CTA \| <h3.text-4xl.font-bold> \| H3 | Medio | Get started with Neon | Únete a Nexu Trading |
+| S098 | FINAL CTA | Section title (H3) | FINAL CTA \| <h3.text-4xl.font-bold> \| H3 | Medio | Get started with Neon | Únete a Neon |
 | S099 | FINAL CTA | Section paragraph (P) | FINAL CTA \| <p.text-blue-200> \| Paragraph | Largo | It only takes a few minutes to get started with Neon. Understand your users, start free, today. | Herramientas y sistemas para operar con estructura. Empieza con Sniper y escala con el portafolio. |
 | S100 | FINAL CTA | CTA button text | FINAL CTA \| <a.btn-sm.text-white> \| Button text | Corto | Start Free Trial | Solicitar acceso |
 
